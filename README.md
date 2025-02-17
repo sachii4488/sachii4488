@@ -23,6 +23,7 @@ A driven 3rd year Computer Engineering undergrad at Faculty of Engineering, Univ
 [![Linkedin Badge](https://img.shields.io/badge/-Sachini_Disanayaka-0077B5?style=flat-square&logo=Linkedin&logoColor=white&lik=https://www.linkedin.com/in/sachidisanayaka/)](https://www.linkedin.com/in/sachidisanayaka/)
 [![Gmail Badge](https://img.shields.io/badge/-sachinipubu934@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachinipubu934@gmail.com)](mailto:sachinipubu934@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_sachi_d99_-FF3B92?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sachi_d99/_/)](https://www.instagram.com/sachi_d99/)
-[![Facebook Badge](https://img.shields.io/badge/-Sachini Disanayaka-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/sachini.dissanayaka.92/)](https://www.facebook.com/sachini.dissanayaka.92/)
+[![Facebook Badge](https://img.shields.io/badge/-Sachini%20Disanayaka-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sachini.dissanayaka.92/)](https://www.facebook.com/sachini.dissanayaka.92/)
+
 
 
